@@ -1,4 +1,4 @@
-=# 3b.CREATION FOR CHAT USING TCP SOCKETS
+## 3b.CREATION FOR CHAT USING TCP SOCKETS
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -32,14 +32,14 @@ while True:
  c.send(msg.encode())
 ```
 ## OUPUT:
-# client:
+## client:
 
 
 ![image](https://github.com/user-attachments/assets/3fc4e20a-b5af-4089-bbba-e95e25ccafa2)
 
 
 
-# server:
+## server:
 
 
 ![image](https://github.com/user-attachments/assets/5337e5dd-cd13-4ebd-a690-aa818adf77aa)
