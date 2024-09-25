@@ -32,12 +32,15 @@ while True:
  c.send(msg.encode())
 ```
 ## OUPUT:
-client:
+# client:
+
+
 ![image](https://github.com/user-attachments/assets/3fc4e20a-b5af-4089-bbba-e95e25ccafa2)
 
 
 
-server:
+# server:
+
 
 ![image](https://github.com/user-attachments/assets/5337e5dd-cd13-4ebd-a690-aa818adf77aa)
 
